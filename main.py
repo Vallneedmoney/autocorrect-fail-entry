@@ -2,7 +2,9 @@
 """Funniest Autocorrect Fail.
 
 Writes one line that reads as a hilarious autocorrect fail to
-/output/entry.txt.
+/output/entry.txt: a text to my wife where autocorrect swaps "dip"
+for "dog", so 14 party guests get a confused golden retriever and
+no dip at all. The line must stay within the 1-199 character gate.
 """
 
 import os
